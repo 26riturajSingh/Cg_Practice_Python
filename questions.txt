@@ -1,0 +1,19 @@
+Write a command-line utility
+1.
+2.
+A filename
+search_word.py that takes two arguments:
+A word to search and prints how many times the word appears in the file.
+5. Bonus Challenges
+1.
+Write a program that reads a file and creates another file with all words
+converted to uppercase.
+2.
+Create a script that deletes all
+and
+os.remove() .
+3.
+.tmp files from the current directory using
+Write a Python command-line tool that takes a folder name and prints the
+total size of all files inside it (use
+os.path.getsize() ).
